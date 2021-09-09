@@ -1,1 +1,6 @@
-
+data_scraper:
+- read in files from data
+- convert raw data into usable .csv files
+- separate .csv files by category
+- read in commands
+- write files with desired information to results
